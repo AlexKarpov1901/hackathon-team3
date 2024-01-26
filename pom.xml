@@ -9,7 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ru.team3</groupId>
-    <artifactId>hackathon-team3</artifactId>
+    <artifactId>hackathon-team\3</artifactId>
+
     <version>0.0.1-SNAPSHOT</version>
     <name>hackathon-team3</name>
     <description>hackathon-team3</description>
